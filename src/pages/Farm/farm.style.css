@@ -1,0 +1,22 @@
+.farm{
+    background: #F7F7F7;
+    align-items: center;
+    align-content: center;
+}
+
+.box{
+    width: 70%;
+    background: #F2F2F2;
+}
+
+
+
+.alertes{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.44px;
+color: #20382F;
+}
